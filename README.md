@@ -6,7 +6,7 @@ Este e-book de 10 páginas foi desenvolvido com o objetivo de ajudar pais, educa
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **Pacote Office(Word)** para edição.
 
 ## 🧐 Processo de Criação
 A estrutura do e-book foi elaborada com auxílio do ChatGPT, que ajudou a desenvolver histórias ilustrativas para cada capítulo e lições derivadas dessas experiências. Após a criação textual, o conteúdo foi organizado e revisado em um editor de texto para garantir coesão e fluidez. Elementos visuais e o design da capa foram inseridos posteriormente para tornar a leitura mais atrativa.
